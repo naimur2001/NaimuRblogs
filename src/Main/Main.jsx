@@ -1,9 +1,13 @@
-import HomePage from "../Components/Home/HomePage"
+import { Outlet } from "react-router-dom"
+import Footer from "../Components/Shared/Footer"
+import Nav from "../Components/Shared/Nav"
 
 const Main = () => {
   return (
     <div>
-      <HomePage/>
+      <Nav></Nav>
+      <Outlet></Outlet>
+     <Footer></Footer>
     </div>
   )
 }
