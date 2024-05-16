@@ -8,8 +8,8 @@ const FirstSection = () => {
   const nextSlider = () => setCurrentSlider((currentSlider) => (currentSlider === sliders.length - 1 ? 0 : currentSlider + 1));
   return (
     <div>
-      <div className='max-w-5xl mx-auto'>
-<div className="main flex lg:flex-row flex-col justify-between gap-10 w-full">
+      <div className='max-w-5xl mx-auto mb-5'>
+<div className="main flex lg:flex-row flex-col justify-between gap-10 w-full shadow-2xl shadow-slate-300 lg:p-4 p-2 rounded-md">
 <div className='textContent flex flex-col justify-center lg:w-1/2 ' >
 <div >
   <h1 className='font-extrabold text-2xl my-2'>
@@ -33,9 +33,9 @@ const FirstSection = () => {
                 {/* sliders */}
                 {sliders.map((slide, inx) => (
                     <div key={inx}
-                        className={`${currentSlider === inx ? 'h-[310px] md:h-[310px] lg:h-[580px] ' : 'h-[260px] md:h-[280px] lg:h-[480px]'} min-w-[75%] bg-black/30 relative duration-200`}
+                        className={`${currentSlider === inx ? 'h-[310px] md:h-[310px] lg:h-[580px] ' : 'h-[260px] md:h-[280px] lg:h-[480px]'} min-w-[75%] bg-black/30 relative duration-200 rounded-md`}
                     >
-                        <img src={slide.img} className="w-full h-full" alt={slide.tags} />
+                        <img src={slide.img} className="w-full h-full rounded-md" alt={slide.tags} />
                     </div>
                 ))}
             </div>
