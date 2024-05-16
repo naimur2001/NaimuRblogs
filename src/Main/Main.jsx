@@ -1,8 +1,9 @@
+import HomePage from "../Components/Home/HomePage"
 
 const Main = () => {
   return (
     <div>
-      emon
+      <HomePage/>
     </div>
   )
 }
