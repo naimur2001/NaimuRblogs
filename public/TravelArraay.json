@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "title": "Bangladesh - Cox's Bazar",
+    "picUrl": "https://images.pexels.com/photos/122107/pexels-photo-122107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "Bangladesh, nestled between India and Myanmar, is a land of natural beauty and cultural heritage. Explore the bustling streets of Dhaka, visit the ancient ruins of Paharpur, or take a boat ride through the tranquil backwaters of the Sundarbans. Discover the vibrant colors of traditional rickshaw art, sample delicious Bengali cuisine, and experience the warmth and hospitality of the Bangladeshi people. With its rich biodiversity and fascinating history, Bangladesh offers a unique travel experience."
+  },
+  {
+    "id": 1,
+    "title": "China",
+    "picUrl": "https://images.pexels.com/photos/3204950/pexels-photo-3204950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "China, a vast and diverse country, offers travelers a plethora of experiences. From the iconic Great Wall and Forbidden City in Beijing to the futuristic skyline of Shanghai, China blends ancient traditions with modernity. Explore the terracotta army in Xi'an, cruise the scenic Li River in Guilin, or marvel at the picturesque landscapes of Zhangjiajie. With its rich history, vibrant culture, and breathtaking scenery, China beckons adventurers from around the globe."
+  },
+  {
+    "id": 3,
+    "title": "Bangladesh - Sylhet",
+    "picUrl": "https://images.pexels.com/photos/392100/pexels-photo-392100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "Bangladesh's Sylhet region is known for its lush tea gardens, rolling hills, and vibrant cultural heritage. Explore the scenic beauty of places like Jaflong and Ratargul Swamp Forest, where you can experience boat rides amidst dense mangrove forests and serene waterways. Visit the ancient shrines of Shah Jalal and Shah Paran, revered by both locals and visitors alike. Sylhet offers a tranquil escape from the bustling city life, with its refreshing landscapes and warm hospitality."
+  },
+  {
+    "id": 4,
+    "title": "India - Kolkata",
+    "picUrl": "https://images.pexels.com/photos/4334157/pexels-photo-4334157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "India, a land of contrasts and diversity, captivates travelers with its rich tapestry of culture, history, and natural beauty. Explore the majestic palaces of Rajasthan, witness the spiritual fervor of Varanasi, or trek through the scenic landscapes of the Himalayas. Discover the architectural wonders of the Taj Mahal, explore the backwaters of Kerala, or immerse yourself in the vibrant street life of Mumbai. With its colorful festivals, mouthwatering cuisine, and warm hospitality, India offers an unforgettable journey of discovery."
+  }
+]

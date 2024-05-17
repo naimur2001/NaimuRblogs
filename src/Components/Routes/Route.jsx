@@ -3,6 +3,8 @@ import Main from "../../Main/Main";
 import Technology from "../Pages/GenreFolder/Technology";
 import HomePage from "../Home/HomePage";
 import Travel from "../Pages/GenreFolder/Travel";
+import About from "../Pages/About/About";
+import Connect from "../Pages/Connect/Connect";
 
 const router=createBrowserRouter ([
 {
@@ -20,6 +22,14 @@ const router=createBrowserRouter ([
     {
       path:"travel",
       element:<Travel></Travel>
+    },
+    {
+      path:"about",
+      element: <About></About>
+    },
+    {
+      path: "connect",
+      element : <Connect></Connect>
     }
   ]
 }
