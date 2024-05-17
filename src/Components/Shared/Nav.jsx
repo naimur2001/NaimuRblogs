@@ -62,11 +62,11 @@ import { Link } from 'react-router-dom';
           <Link to={'/tech'}>Technology</Link>
       </li>
       <li className="px-3 hover:underline">
-          <Link href="#">Travel</Link>
+          <Link to={"travel"}>Travel</Link>
       </li>
-      <li className="px-3 hover:underline">
+      {/* <li className="px-3 hover:underline">
           <Link href="#">GeoPolitics</Link>
-      </li>
+      </li> */}
   </ul>
 )}
 </li>
@@ -118,11 +118,11 @@ import { Link } from 'react-router-dom';
            <Link  to={'/tech'}>Technology</Link>
        </li>
        <li className="px-3 hover:underline text-black">
-           <Link href="#">Travel</Link>
+           <Link to={"/travel"}>Travel</Link>
        </li>
-       <li className="px-3 hover:underline text-black">
-           <Link href="#">GeoPolitics</Link>
-       </li>
+       {/* <li className="px-3 hover:underline text-black">
+       <Link to={"/travel"}>GeoPolitics</Link>
+       </li> */}
    </ul>
               <Link to={'/about'}>
               <li className="cursor-pointer  px-6 py-2  hover:bg-gray-200 hover:text-gray-500 ">

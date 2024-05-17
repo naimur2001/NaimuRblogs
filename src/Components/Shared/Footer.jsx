@@ -64,9 +64,9 @@ const Footer = () => {
       <li className="px-3 hover:underline">
           <Link to={'/travel'}>Travel</Link>
       </li>
-      <li className="px-3 hover:underline">
+      {/* <li className="px-3 hover:underline">
           <Link to={'/geopol'}>GeoPolitics</Link>
-      </li>
+      </li> */}
   </ul>
 )}
 </li>
