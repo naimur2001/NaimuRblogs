@@ -57,13 +57,13 @@ const SecondSection = () => {
    
 
       
-<div className="max-w-[370px] h-[350px] bg-gradient-to-r from-sky-50 to-red-50 mx-auto overflow-hidden rounded-xl p-4 shadow-lg relative transform rotate-3 hover:scale-105 hover:rotate-0 transition-transform duration-300 cursor-pointer">
+<div className="max-w-[370px] h-[355px] bg-gradient-to-r from-sky-50 to-red-50 mx-auto overflow-hidden rounded-xl p-4 shadow-lg relative transform rotate-3 hover:scale-105 hover:rotate-0 transition-transform duration-300 cursor-pointer">
 
   <div>
     <img src={data.picUrl} alt="" className="h-20 w-20 rounded-md" />
     <div className="grid grid-cols-1 gap-2">
       <h1 className="text-xl font-semibold my-1">{data.title}</h1>
-   <p className="font-light text-base">{data.description}</p></div>
+   <p className="font-light text-base text-gray-700">{data.description}</p></div>
   </div>
 </div>
     </>)
