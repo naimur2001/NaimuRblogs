@@ -38,7 +38,7 @@ const SecondSection = () => {
     },
     {
       id: 6, 
-      title: "No Humanity in Zaza",
+      title: "No Humanity in Gaza",
       description: "The Israeli–Palestinian conflict is an ongoing military and political conflict about land and self-determination within the territory of the former Mandatory Palestine. Israel acceompleshing 'Genocide' one after one. World is now on cruelt mode. Pray for Palestine.",
       topic: "Category", 
       picUrl: "https://images.pexels.com/photos/10010406/pexels-photo-10010406.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -50,7 +50,7 @@ const SecondSection = () => {
     <div >
  <div className='max-w-5xl mx-auto mb-5 '>
 
-<div className="main shadow-md shadow-slate-300  px-2 py-4">
+<div className="main shadow-2xl shadow-slate-300 lg:p-4 p-2 rounded-lg">
 <div className="grid lg:grid-cols-3 grid-cols-1 gap-16">
   {
     experiences?.map(data=><>

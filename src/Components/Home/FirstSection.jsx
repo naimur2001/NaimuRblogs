@@ -9,7 +9,7 @@ const FirstSection = () => {
   return (
     <div>
       <div className='max-w-5xl mx-auto mb-5'>
-<div className="main flex lg:flex-row flex-col justify-between gap-10 w-full shadow-2xl shadow-slate-300 lg:p-4 p-2 rounded-md">
+<div className="main flex lg:flex-row flex-col justify-between gap-10 w-full shadow-2xl shadow-slate-300 lg:p-4 p-2 rounded-lg">
 <div className='textContent flex flex-col justify-center lg:w-1/2 ' >
 <div >
   <h1 className='font-extrabold text-2xl my-2'>
