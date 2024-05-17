@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Coding",
+    "picUrl": "https://images.pexels.com/photos/325111/pexels-photo-325111.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Coding is the process of using a programming language to instruct a computer to perform specific tasks. It involves writing logical instructions, or code, that a computer can execute. Coding is fundamental to software development and is used to create a wide range of applications, from websites and mobile apps to desktop software and video games. Learning to code can open up numerous career opportunities in technology."
+  },
+  {
+    "id": 2,
+    "title": "Programming",
+    "picUrl": "https://images.pexels.com/photos/4827576/pexels-photo-4827576.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Programming is the process of designing and building computer programs. It involves writing code using a programming language to create software that performs desired functions or solves specific problems. Programmers use various tools and techniques to develop efficient and reliable software. Programming skills are essential in fields such as software development, web development, data science, and artificial intelligence."
+  },
+  {
+    "id": 3,
+    "title": "Artificial Intelligence (AI)",
+    "picUrl": "https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence. These tasks include understanding natural language, recognizing patterns, learning from experience, and making decisions. AI technologies such as machine learning, natural language processing, and computer vision are being used in various industries, including healthcare, finance, transportation, and entertainment."
+  },
+  {
+    "id": 4,
+    "title": "Nanotechnology",
+    "picUrl": "https://media.istockphoto.com/id/1223150089/photo/in-ultra-modern-electronic-manufacturing-factory-design-engineer-in-sterile-coverall-holds.jpg?b=1&s=612x612&w=0&k=20&c=MqEDqht_rFYJeahUkJF8HrQ-QM8UXSvaLiuCRsnPiXg=",
+    "description": "Nanotechnology is the manipulation of matter on an atomic, molecular, and supramolecular scale. It involves the design, synthesis, and application of materials and devices with dimensions ranging from 1 to 100 nanometers. Nanotechnology has potential applications in various fields, including medicine, electronics, energy, and environmental science. It enables the development of novel materials and technologies with unique properties and functionalities."
+  },
+  {
+    "id": 5,
+    "title": "Data Science",
+    "picUrl": "https://images.pexels.com/photos/17484970/pexels-photo-17484970/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-technology-can-help-humans-learn-and-predict-patterns-in-biology-it-was-created-by-khyati-trehan-as-par.png?auto=compress&cs=tinysrgb&w=600",
+    "description": "Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract insights and knowledge from structured and unstructured data. It combines expertise from statistics, mathematics, computer science, and domain knowledge to analyze complex data sets and make informed decisions. Data scientists utilize techniques such as data mining, machine learning, and predictive analytics to uncover patterns, trends, and correlations in data."
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity",
+    "picUrl": "https://images.pexels.com/photos/5952651/pexels-photo-5952651.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It encompasses various technologies, processes, and practices designed to safeguard digital assets and ensure confidentiality, integrity, and availability. Cybersecurity professionals work to identify vulnerabilities, mitigate risks, and respond to security incidents to prevent unauthorized access, data breaches, and cyberattacks."
+  },
+  {
+    "id": 7,
+    "title": "Robotics",
+    "picUrl": "https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Robotics is a multidisciplinary field that involves the design, construction, operation, and use of robots. Robots are autonomous or semi-autonomous machines that can perform tasks in the physical world. Robotics combines elements of mechanical engineering, electrical engineering, computer science, and artificial intelligence to create intelligent machines capable of sensing, thinking, and acting in real-world environments. Robotics has applications in manufacturing, healthcare, agriculture, exploration, and entertainment."
+  }
+]
