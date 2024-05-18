@@ -5,6 +5,8 @@ import HomePage from "../Home/HomePage";
 import Travel from "../Pages/GenreFolder/Travel";
 import About from "../Pages/About/About";
 import Connect from "../Pages/Connect/Connect";
+import TechDetails from "../Shared/TechDetails";
+import TravelDetails from "../Shared/TravelDetails";
 
 const router=createBrowserRouter ([
 {
@@ -17,7 +19,8 @@ const router=createBrowserRouter ([
     },
     {
       path:"tech",
-      element: <Technology></Technology>
+      element: <Technology></Technology>,
+      
     },
     {
       path:"travel",
@@ -30,6 +33,16 @@ const router=createBrowserRouter ([
     {
       path: "connect",
       element : <Connect></Connect>
+    },
+    {
+      path:"tech/details/:id",
+      element:<TechDetails></TechDetails>,
+
+    },
+    {
+      path:"travel/details/:id",
+      element: <TravelDetails></TravelDetails> ,
+
     }
   ]
 }
