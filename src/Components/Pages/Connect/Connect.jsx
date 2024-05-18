@@ -33,7 +33,7 @@ const Connect = () => {
   ];
   return (
     <div>
-      <div className="max-w-5xl mx-auto">
+      <div className="max-w-5xl mx-auto lg:px-0 px-2">
       <ul className=" my-10 flex h-full flex-wrap items-center justify-center gap-5">
                {
                 socialLinks?.map((sl,ind)=><>
