@@ -2,7 +2,7 @@ import React from 'react'
 
 const ConncetForm = () => {
   return (
-    <div>
+    <div className='lg:px-0 px-2'>
        <form action="" method="POST" className="w-full max-w-lg ">
                 {/* modal */}
  
