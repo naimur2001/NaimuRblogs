@@ -10,7 +10,7 @@ const ConncetForm = () => {
 
 
   {/* modal */}
-              <div className="flex flex-wrap  -mx-3 mb-6">
+              <div className="flex flex-wrap  -mx-3 mb-6 lg:px-0 px-2">
                 <div className="w-full md:w-1/2  px-3 mb-6 md:mb-0">
                   <input
                     className="appearance-none block w-full text-gray-700 border-2 border-sky-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none bg-transparent "
@@ -21,7 +21,7 @@ const ConncetForm = () => {
                     required
                   />
                 </div>
-                <div className="w-full md:w-1/2 px-3">
+                <div className="w-full md:w-1/2  px-3 mb-6 md:mb-0">
                   <input
                     className="appearance-none block w-full text-gray-700 border-2 border-sky-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none bg-transparent "
                     id="grid-last-name"
@@ -33,7 +33,7 @@ const ConncetForm = () => {
                 </div>
               </div>
               <div className="flex flex-wrap -mx-3 mb-6 md:mb-0">
-                <div className="w-full px-3 md:w-1/2 mb-6 md:mb-0">
+              <div className="w-full md:w-1/2  px-3 mb-6 md:mb-0">
                   <input
                     className="appearance-none block w-full text-gray-700 border-2 border-sky-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none bg-transparent "
                     id="grid-password"

@@ -53,8 +53,8 @@ const Connect = () => {
 <div className='grid lg:grid-cols-2 grid-cols-1 gap-10'>
   
 <ConncetForm></ConncetForm>
-<div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29218.769607738977!2d90.34088854047799!3d23.735030821614338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bf486a645f2d%3A0x16f8f87df710d4af!2sHazaribag%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1715981147734!5m2!1sen!2sbd" width="500" height="270"  allowfullscreen="" loading="lazy" ></iframe>
+<div className=' ' >
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29218.769607738977!2d90.34088854047799!3d23.735030821614338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bf486a645f2d%3A0x16f8f87df710d4af!2sHazaribag%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1715981147734!5m2!1sen!2sbd"       className="w-full h-64 lg:h-[275px] max-w-full lg:px-0 px-2" allowfullscreen="" loading="lazy" ></iframe>
 </div>
 </div>
       </div>
