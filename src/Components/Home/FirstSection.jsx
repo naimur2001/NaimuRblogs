@@ -15,7 +15,8 @@ const FirstSection = () => {
   <h1 className='font-extrabold text-2xl my-2'>
   Building the future <br /> (software engineer student) <br />
   & <br />
-  exploring the world <br />(tech, travel, geopolitics).
+  {/* exploring the world <br />(tech, travel, geopolitics). */}
+  exploring the world <br />(tech, travel).
 </h1>
 <p className='font-medium text-xl text-gray-500 my-2'>Tech whiz, hooked on how innovation solves problems and builds a brighter future. From cutting-edge software to sleek gadgets, I devour it all!</p>
 </div>

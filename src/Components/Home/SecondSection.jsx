@@ -29,20 +29,20 @@ const SecondSection = () => {
       topic: "Travel",
       picUrl: "https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
-    {
-      id: 5,
-      title: "Recent Elecetion by BD",
-      description: "General elections were held in Bangladesh on 7 January 2024. The current term of the perliament on 29 January 2024. The Awami League, led by Sheikh Hasina, won the election for the fourth consecutive time with less than 40% of the eligible voters voting according to an Election Commission. But Truth is 90% People boycotted it.",
-      topic: "geopol", 
-      picUrl: "https://images.pexels.com/photos/2382896/pexels-photo-2382896.jpeg?auto=compress&cs=tinysrgb&w=600",
-    },
-    {
-      id: 6, 
-      title: "No Humanity in Gaza",
-      description: "The Israeli–Palestinian conflict is an ongoing military and political conflict about land and self-determination within the territory of the former Mandatory Palestine. Israel acceompleshing 'Genocide' one after one. World is now on cruelt mode. Pray for Palestine.",
-      topic: "Category", 
-      picUrl: "https://images.pexels.com/photos/10010406/pexels-photo-10010406.jpeg?auto=compress&cs=tinysrgb&w=600",
-    },
+    // {
+    //   id: 5,
+    //   title: "Recent Elecetion by BD",
+    //   description: "General elections were held in Bangladesh on 7 January 2024. The current term of the perliament on 29 January 2024. The Awami League, led by Sheikh Hasina, won the election for the fourth consecutive time with less than 40% of the eligible voters voting according to an Election Commission. But Truth is 90% People boycotted it.",
+    //   topic: "geopol", 
+    //   picUrl: "https://images.pexels.com/photos/2382896/pexels-photo-2382896.jpeg?auto=compress&cs=tinysrgb&w=600",
+    // },
+    // {
+    //   id: 6, 
+    //   title: "No Humanity in Gaza",
+    //   description: "The Israeli–Palestinian conflict is an ongoing military and political conflict about land and self-determination within the territory of the former Mandatory Palestine. Israel acceompleshing 'Genocide' one after one. World is now on cruelt mode. Pray for Palestine.",
+    //   topic: "Category", 
+    //   picUrl: "https://images.pexels.com/photos/10010406/pexels-photo-10010406.jpeg?auto=compress&cs=tinysrgb&w=600",
+    // },
   ];
 
 

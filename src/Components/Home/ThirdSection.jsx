@@ -11,7 +11,7 @@ const ThirdSection = () => {
   </div>
   <div className="grid grid-cols-1 gap-2 ">
     <h1 className="lg:text-2xl text-xl  font-bold text-gray-400">NAIMUR RAHMAN</h1>
-    <p className=" text-xl font-sign">Naimur, a software engineering student, is fueled by his passion for technology, travel, and geopolitics. He eagerly explores the connections between these diverse interests, finding inspiration in the intersections of culture, innovation, and global affairs.</p>
+    <p className=" text-xl font-sign">Naimur, a software engineering student, is fueled by my passion for technology & travel. I eagerly explore the connections between these diverse interests, finding inspiration in the intersections of culture, innovation, and global affairs.</p>
     <Link to={"/about"}>
       <button className="p-2 border-2 border-gray-400 rounded-2xl text-base  font-semibold">Explore Further</button>
     </Link>

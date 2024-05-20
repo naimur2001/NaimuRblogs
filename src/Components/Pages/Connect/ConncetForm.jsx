@@ -2,7 +2,7 @@ import React from 'react'
 
 const ConncetForm = () => {
   return (
-    <div className='lg:px-0 px-2'>
+    <div className=' my-10 lg:px-0 px-2'>
        <form action="" method="POST" className="w-full max-w-lg ">
                 {/* modal */}
  
@@ -68,10 +68,10 @@ const ConncetForm = () => {
               
               <button
                 type="submit"
-                className={`w-full px-6 md:px-8 lg:px-8 py-2 md:py-3 lg:py-3 bg-secondary rounded font-semibold text-white outline outline-1 capitalize transition ease duration-300 hover:translate-x-1 hover:-translate-y-1 `}
+                className={`w-full px-6 md:px-8 lg:px-8 py-2 md:py-3 lg:py-3 bg-sky-200 rounded font-semibold text-gray-700 outline outline-1 capitalize transition ease duration-300 hover:translate-x-1 hover:-translate-y-1 outline-none `}
 
               >
-                Contact Us
+                Send
               </button>
 
                       
